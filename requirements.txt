@@ -1,0 +1,5 @@
+﻿streamlit>=1.58
+pandas
+numpy
+matplotlib
+lifetimes
