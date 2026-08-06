@@ -1,0 +1,8 @@
+streamlit
+anthropic
+pandas
+numpy
+matplotlib
+lifetimes
+reportlab
+Pillow
