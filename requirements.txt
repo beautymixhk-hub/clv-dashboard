@@ -1,8 +1,0 @@
-streamlit
-openai
-pandas
-numpy
-matplotlib
-lifetimes
-reportlab
-Pillow
