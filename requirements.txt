@@ -1,0 +1,10 @@
+streamlit
+extra-streamlit-components
+openai
+supabase
+pandas
+numpy
+matplotlib
+lifetimes
+reportlab
+Pillow
